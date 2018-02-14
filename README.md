@@ -10,3 +10,5 @@
 ### 1 - AngularJS Site
 
 ### 1 - IOS App built with Swift and Xcode.
+
+See the projects at: http://jimvickery.me
