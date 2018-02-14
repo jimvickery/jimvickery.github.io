@@ -1,12 +1,12 @@
 # Jim Vickery Portfolio
 
 
-## Projects:
+## Projects: Website Apps and Mobile Apps 
 
-### 3 Ruby on Rails Sites
+### 3 - Ruby on Rails Sites
 
-### 4 Mobile Apps
+### 4 - Mobile Apps
 
-### 1 AngularJS Site
+### 1 - AngularJS Site
 
-### IOS App built with Swift and Xcode.
+### 1 - IOS App built with Swift and Xcode.
