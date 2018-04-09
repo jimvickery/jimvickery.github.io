@@ -1,5 +1,6 @@
 # Jim Vickery Portfolio
 
+# Six Deployed Apps: 2 RoR sites, 4 Mobile Apps.
 
 ## Projects: Website Apps and Mobile Apps 
 
